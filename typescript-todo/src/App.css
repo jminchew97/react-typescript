@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+.todo-item p {
+  display:inline;
+}
+.complete-todos p {
+  text-decoration: line-through;
+}
+.complete-todos button {
+  display:none;
+}
